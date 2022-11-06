@@ -23,6 +23,15 @@
 
 In terms of costs, it shows that the riders in rural cities pay on an average $10 more than riders in urban cities. The average fare per ride is about $35 in rural cities whereas, the urban cities average fare is around $25.
 
+## Results : 
+By Reviewing the summary, we can infer the below key findings :
+   - Urban cities use PyBer services more than sub-urban and rural cities
+   - Urban cities have higher ridership demand than the other 2 two cities
+   - Urban cities have close to 5 times more drivers than sub-urban cities and 20 times more than rural cities
+   - But the rural cities have the highest average fare per ride and driver. This could discourage the potential riders from using PyBer.
+   - The data however doesn't include the travel distance, which could be a cause of ride ride costs in rural cities and low driver fares in urban cities. 
+ ### Statistical overview and summary of PyBer ride sharing data. 
+![img](https://github.com/hsurisetti/PyBer_Analysis_Challenge/blob/main/analysis/PyBer_Summary.png)
 
 ### Total Fare by City Type Chart
 
@@ -34,16 +43,6 @@ The Orange trend shows how the total fares in suburban cities fall btween Urban 
 The chart also demonstrates, similar peaks almost during the same time for most of the cases. One most visible peak among all cities occured around the end of February 2019.
 
 ![img](https://github.com/hsurisetti/PyBer_Analysis_Challenge/blob/main/analysis/PyBer_fare_summary.png)
-
-## Results : 
-By Reviewing the summary, we can infer the below key findings :
-   - Urban cities use PyBer services more than sub-urban and rural cities
-   - Urban cities have higher ridership demand than the other 2 two cities
-   - Urban cities have close to 5 times more drivers than sub-urban cities and 20 times more than rural cities
-   - But the rural cities have the highest average fare per ride and driver. This could discourage the potential riders from using PyBer.
-   - The data however doesn't include the travel distance, which could be a cause of ride ride costs in rural cities and low driver fares in urban cities. 
- ### Statistical overview and summary of PyBer ride sharing data. 
-![img](https://github.com/hsurisetti/PyBer_Analysis_Challenge/blob/main/analysis/PyBer_Summary.png)
 
 ## Summary
  
