@@ -11,7 +11,7 @@
  The pie-chart shows that the ride count of Urban cities is significantly greater than the Sub-urban and Urban cities
 
 #### Percentage of Total Drivers by City Type
-<img src="https://github.com/hsurisetti/PyBer_Analysis_Challenge/blob/main/analysis/PercentTotalDriversByCityType.png" width=600/>
+<img src="https://github.com/hsurisetti/PyBer_Analysis_Challenge/blob/main/analysis/PercentTotalDriversByCityType.png" width=620/>
 
  The below pie-chart shows that the there are there are few drivers in rural areas compared to much higher count in urban cities
 
